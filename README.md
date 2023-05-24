@@ -2,7 +2,13 @@
 
 ### Maintained by
 
-[Alonso Jiménez J.](https://forum.xda-developers.com/m/alonsoj636mw.11067729/)
+**Alonso Jiménez J.**
+
+[My XDA Profile](https://forum.xda-developers.com/m/alonsoj636mw.11067729/)
+
+[My LineageOS 20 XDA Thread](https://forum.xda-developers.com/t/rom-13-unofficial-lineageos-20-sunny-mojito.4436693/)
+
+[My Telegram](https://t.me/alonsoj636MW)
 
 ---------------------------------------------------------------------------------
 
