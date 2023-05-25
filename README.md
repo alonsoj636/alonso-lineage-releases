@@ -12,10 +12,8 @@
 
 ---------------------------------------------------------------------------------
 
-### Total Downloads
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonso-lineage-releases/total?color=white&label=Alonso%27s%20Cave&style=plastic)](https://github.com/alonsoj636/alonso-lineage-releases/releases)
 
-### Downloads by Build Type
+### Download Count
 
 *Vanilla*
 
